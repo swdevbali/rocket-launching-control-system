@@ -3,3 +3,9 @@ Hai, ini adalah kode untuk meluncurkan rocket yang dikembangkan oleh negara-nega
 - Indonesia
 - USA
 - India
+
+# Team Member
+## USA
+- Sheldon
+- Howard
+- Raj
