@@ -6,7 +6,7 @@ This is the project to launch rocket into space, which are developed by these co
 
 # Team Member
 ## USA
-- Sheldon
+- Sheldon, Cooper
 - Howard
 - Raj
 
