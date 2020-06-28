@@ -9,7 +9,6 @@ This is the project to launch rocket into space, which are developed by these co
 - Sheldon, Cooper
 - Howard, Holowits
 - Raj, Kootraphali
-
 ## Indonesia
 - Joko
 - Bowo
