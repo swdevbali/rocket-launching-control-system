@@ -1,5 +1,5 @@
 # rocket-launching-control-system
-Hai, ini adalah kode untuk meluncurkan rocket yang dikembangkan oleh negara-negara berikut:
+This is the project to launch rocket into space, which are developed by these countries:
 - Indonesia
 - USA
 - India
